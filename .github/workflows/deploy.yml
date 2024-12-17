@@ -35,7 +35,7 @@ jobs:
         uses: denoland/deployctl@v1
         with:
           project: "send2ereader"
-          entrypoint: "index.js"
+          entrypoint: "main.ts"
           root: ""
           
           
